@@ -1,10 +1,41 @@
-- 👋 Hi, I’m Riyaz Sheikh
-- 👀 I’m interested in front-end development and web development
-- 🌱 I’m currently learning React.js,Node.js
-- 💞️ I’m looking to collaborate on front-end development and full-stack web applications and also on  open source projects.
-- 📫 Ping me at riyazisheikh97@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact:I enjoy exploring new programming languages and have a passion for solving complex problems.
+ 👋 Hi, I’m Riyaz Sheikh
+- 💻 Frontend Developer | React Developer
+
+  😄 Pronouns: he/him
+
+👨‍💻 About Me
+- Working as a React Developer with hands-on experience in building scalable web applications
+- Skilled in developing responsive, user-friendly, and high-performance UI
+- Strong understanding of JavaScript, TypeScript, and modern frontend practices
+- Passionate about writing clean, maintainable, and efficient code
+
+ 🚀 Tech Stack
+- ⚛️ React.js
+- 🟢 node
+- 🟨 JavaScript (ES6+)
+- 🔷 TypeScript
+- 🌐 HTML5, CSS3
+- 🧩 Redux / State Management
+- 🔗 REST APIs
+
+💼 Experience Focus
+- Building reusable components and custom hooks
+- API integration and data handling
+- Performance optimization and debugging
+- Writing scalable and maintainable code
+
+💞️ Open to Collaborate On
+- Frontend & Full Stack Projects
+- Open Source Contributions
+
+📫 Contact Me
+ - 📧 Email: riyazisheikh97@gmail.com
+
+⚡ Fun Fact
+ - I enjoy solving real-world problems through code and continuously improving my development skills 🚀
+
+
+
 
 <!---
 riyazgithubavailable/riyazgithubavailable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
